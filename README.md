@@ -3,5 +3,21 @@ RV Backup Helper is an AI "object" recognition system to be integrated into the 
 
 <br>
 
-__This repo is currently under development and is modified regularly - Clone at you own RISK!__
+__This repo is currently under HEAVY development and is modified regularly - clone at you own RISK!__
 
+* [Cloning the repo]()
+* [QT installation]()
+* ...
+
+<br>
+<br>
+
+---
+
+# Cloning the repo
+
+
+
+---
+
+# QT installation
