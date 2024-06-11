@@ -23,7 +23,7 @@ _Table of Content_
 git clone --recurse-submodules https://github.com/Charette-AI-Group/RVBH.git
 ```
 
-_Need to check is futher steps are required ..._
+_Need to check if futher "steps" are required ..._
 
 <br>
 <br>
