@@ -1,0 +1,3 @@
+[submodule "pyCoding"]
+	path = pyCoding
+	url = https://github.com/FrancoisCharette/pyCoding.git

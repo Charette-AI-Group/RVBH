@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../docsBranches/pcInfo_wiki"
+		},
+		{
+			"path": "../../docsBranches/pyCoding_wiki"
+		}
+	],
+	"settings": {}
+}
