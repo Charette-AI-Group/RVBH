@@ -2,7 +2,7 @@
 
 *.qt_for_python
 
-*.ps1
+# *.ps1
 
 **.pt
 **.pth
