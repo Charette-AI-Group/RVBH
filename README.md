@@ -8,11 +8,10 @@ __This repo is currently under HEAVY development and is modified regularly - clo
 <br>
 
 _Table of Content_
-* [QT Designer]()
+* [QT Designer](https://github.com/Charette-AI-Group/RVBH/tree/main?tab=readme-ov-file#qt-designer)
 * [Cloning the repo](https://github.com/Charette-AI-Group/RVBH/tree/main?tab=readme-ov-file#cloning-the-repo)
-* [Python environment]()
-  * [Packages](https://github.com/Charette-AI-Group/RVBH/tree/main?tab=readme-ov-file#qt-installation)
-* ...
+* [Python environment](https://github.com/Charette-AI-Group/RVBH/tree/main?tab=readme-ov-file#python-environment)
+  * [Packages](https://github.com/Charette-AI-Group/RVBH/tree/main?tab=readme-ov-file#python-packages)
 
 <br>
 <br>
