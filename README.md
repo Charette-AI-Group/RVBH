@@ -66,6 +66,7 @@ Other packages are;
 ```
 pip install opencv-python
 pip install matplotlib
+pip install h5py
 pip install jupyterlab
 ```
 
