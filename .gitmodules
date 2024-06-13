@@ -1,3 +1,7 @@
 [submodule "pyCoding"]
 	path = pyCoding
 	url = https://github.com/FrancoisCharette/pyCoding.git
+[submodule "dataViewer"]
+	path = dataViewer
+	url = https://github.com/FrancoisCharette/qtApps.git
+	branch = dataViewer
