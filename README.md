@@ -54,7 +54,7 @@ conda create --name rvbh python=3.9
 ```
 To activate this new environment use ```conda activate rvbh```.
 <br>
-__NOTE:__ Trying to use a higher version of python=3.9 created issues!!!
+__NOTE:__ _Trying to use a higher version of python=3.9 created issues with the installation of PyQT6-tools package!!!_
 
 ## Python packages
 The QT pip installation is done using the following commands;
