@@ -5,3 +5,7 @@
 	path = dataViewer
 	url = https://github.com/FrancoisCharette/qtApps.git
 	branch = dataViewer
+[submodule "aimlApp"]
+	path = aimlApp
+	url = https://github.com/FrancoisCharette/qtApps.git
+	branch = aimlApp

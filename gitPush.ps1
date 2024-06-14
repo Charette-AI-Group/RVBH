@@ -20,6 +20,12 @@ git add -A
 git commit -a -m "$msg"
 git push origin dataViewer
 
+# Handle the branch "aimlApp" in the qtApps repo
+Set-Location ../aimlApp
+git add -A
+git commit -a -m "$msg"
+git push origin aimlApp
+
 # main project repo
 Set-Location ..
 git add -A

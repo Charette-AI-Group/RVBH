@@ -13,6 +13,10 @@ git pull origin master
 Set-Location ../../projects/24rvbh/dataViewer
 git pull origin dataViewer
 
+# Handle the branch "aimlApp" in the qtApps repo
+Set-Location ../aimlApp
+git pull origin aimlApp
+
 # main project repo
 Set-Location ..
 git pull origin main
