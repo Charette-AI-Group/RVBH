@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="ctrls">
+    <file>playStop/playButton01_16x16.png</file>
+    <file>playStop/playButton01_30x30.png</file>
+    <file>playStop/playButton01_40x40.png</file>
+    <file>playStop/playButton03_16x16.png</file>
+    <file>playStop/playButton03_24x24.png</file>
+    <file>playStop/playButton03_32x32.png</file>
+    <file>playStop/playButton03_48x48.png</file>
+    <file>playStop/stopButton02_16x16.png</file>
+    <file>playStop/stopButton02_24x24.png</file>
+    <file>playStop/stopButton02_32x32.png</file>
+    <file>playStop/stopButton02_48x48.png</file>
+  </qresource>
+</RCC>
