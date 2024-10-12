@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../../docsBranches/pcInfo_wiki"
+			"path": "../../../docsBranches/pcInfo_wiki"
 		},
 		{
-			"path": "../../docsBranches/pyCoding_wiki"
+			"path": "../../../docsBranches/pyCoding_wiki"
 		}
 	],
 	"settings": {
