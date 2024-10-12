@@ -3,14 +3,14 @@ Set-Location pyCoding
 & "$PSScriptRoot/pyCoding/gitPull.ps1"
 
 # Take care of documents/wiki repo
-Set-Location ../../../docsBranches/pcInfo_wiki
+Set-Location ../../../../docsBranches/pcInfo_wiki
 git pull origin master
 
 Set-Location ../pyCoding_wiki
 git pull origin master
 
 # Handle the branch "dataViewer" in the qtApps repo
-Set-Location ../../projects/24rvbh/dataViewer
+Set-Location ../../projects/Charette_AI_Group/24rvbh/dataViewer
 git pull origin dataViewer
 
 # Handle the branch "aimlApp" in the qtApps repo

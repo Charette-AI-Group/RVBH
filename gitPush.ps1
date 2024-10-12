@@ -5,7 +5,7 @@ Set-Location pyCoding
 & $PSScriptRoot/pyCoding/gitPush.ps1 $msg
 
 # Take care of documents/wiki repo
-Set-Location ../../../docsBranches/pcInfo_wiki
+Set-Location ../../../../docsBranches/pcInfo_wiki
 git add -A
 git commit -a -m "$msg"
 git push origin master
@@ -15,7 +15,7 @@ git commit -a -m "$msg"
 git push origin master
 
 # Handle the branch "dataViewer" in the qtApps repo
-Set-Location ../../projects/24rvbh/dataViewer
+Set-Location ../../projects/Charette_AI_Group/24rvbh/dataViewer
 git add -A
 git commit -a -m "$msg"
 git push origin dataViewer
