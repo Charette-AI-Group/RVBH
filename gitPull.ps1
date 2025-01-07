@@ -17,7 +17,13 @@ git pull origin dataViewer
 Set-Location ../aimlApp
 git pull origin aimlApp
 
+# Handle the branch "lvCoding"
+Set-Location ../lvCoding
+git pull origin master
+Set-Location wiki
+git pull origin master
+
 # main project repo
-Set-Location ..
+Set-Location ../..
 git pull origin main
 

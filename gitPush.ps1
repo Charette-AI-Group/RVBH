@@ -26,8 +26,18 @@ git add -A
 git commit -a -m "$msg"
 git push origin aimlApp
 
+# Handle the branch "lvCoding"
+Set-Location ../lvCoding
+git add -A
+git commit -a -m "$msg"
+git push origin master
+Set-Location wiki
+git add -A
+git commit -a -m "$msg"
+git push origin master
+
 # main project repo
-Set-Location ..
+Set-Location ../..
 git add -A
 git commit -a -m "$msg"
 git push origin main

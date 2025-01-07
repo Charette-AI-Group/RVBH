@@ -9,3 +9,6 @@
 	path = aimlApp
 	url = https://github.com/FrancoisCharette/qtApps.git
 	branch = aimlApp
+[submodule "lvCoding"]
+	path = lvCoding
+	url = https://github.com/FrancoisCharette/lvCoding.git
