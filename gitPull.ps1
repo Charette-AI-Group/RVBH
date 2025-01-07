@@ -19,7 +19,7 @@ git pull origin aimlApp
 
 # Handle the branch "lvCoding"
 Set-Location ../lvCoding
-git pull origin master
+git pull origin main
 Set-Location wiki
 git pull origin master
 
