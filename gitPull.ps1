@@ -21,7 +21,7 @@ git pull origin aimlApp
 Set-Location ../lvCoding
 git pull origin main
 Set-Location wiki
-git pull origin master
+git pull origin main
 
 # main project repo
 Set-Location ../..

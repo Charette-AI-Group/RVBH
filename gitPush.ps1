@@ -34,7 +34,7 @@ git push origin main
 Set-Location wiki
 git add -A
 git commit -a -m "$msg"
-git push origin master
+git push origin main
 
 # main project repo
 Set-Location ../..
